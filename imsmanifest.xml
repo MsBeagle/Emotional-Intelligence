@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5w7LkY67NfZ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Emotional Intelligence Test</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Emotional_Intelligence_Test_ORG">
+    <organization identifier="Emotional_Intelligence_Test_ORG">
+      <title>Emotional Intelligence Test</title>
+      <item identifier="em_intelligence_test_SCO" isvisible="true" identifierref="__5w7LkY67NfZ_course_id_RES">
+        <title>Emotional Intelligence Test</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5w7LkY67NfZ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5wmIUIxpEo2_44100_96_0.mp3" />
+      <file href="story_content/5W9lmmJvLaE_captions.js" />
+      <file href="story_content/video_5y3t2Ab3CwX_18_96_1026x544.mp4" />
+      <file href="mobile/poster_5ilqGLRsLxy_video_5y3t2Ab3CwX_18_96_1026x544.jpg" />
+      <file href="story_content/video_5fHixIWUNjb_18_96_1026x542.mp4" />
+      <file href="mobile/poster_62Ap3AV08f0_video_5fHixIWUNjb_18_96_1026x542.jpg" />
+      <file href="story_content/6k0t1dfpKdh_44100_96_0.mp3" />
+      <file href="story_content/5vjLQZbtGlp_captions.js" />
+      <file href="story_content/video_66cosA3OkQN_18_96_980x552.mp4" />
+      <file href="mobile/poster_5dgLCnWeZen_video_66cosA3OkQN_18_96_980x552.jpg" />
+      <file href="story_content/video_6UkatUQBUur_18_96_990x558.mp4" />
+      <file href="mobile/poster_6MC7cY9c0vu_video_6UkatUQBUur_18_96_990x558.jpg" />
+      <file href="story_content/5uyV6qqbCN7_44100_96_0.mp3" />
+      <file href="story_content/5zgVGZqOQoW_captions.js" />
+      <file href="story_content/video_6OCjUqLgNIP_18_96_962x542.mp4" />
+      <file href="mobile/poster_5nX5AatihXa_video_6OCjUqLgNIP_18_96_962x542.jpg" />
+      <file href="story_content/video_6dJS4yl6PmK_18_96_968x544.mp4" />
+      <file href="mobile/poster_5lYdLKLLe0e_video_6dJS4yl6PmK_18_96_968x544.jpg" />
+      <file href="mobile/5rwTDYHQ477_P_335_152_335_359_DX666_DY666_CX135_CY144.png" />
+      <file href="mobile/6KXBiLmfwvK_P_240_376_546_304_DX666_DY666_CX219_CY122.png" />
+      <file href="mobile/6VBrU3uNBK6_P_827_370_436_300_DX690_DY690_CX176_CY121.png" />
+      <file href="mobile/6NhP57iC7hA_P_546_589_534_331_DX666_DY666_CX214_CY133.png" />
+      <file href="mobile/5lqVOW2nf22_P_121_609_390_300_DX678_DY678_CX157_CY121.png" />
+      <file href="mobile/6YsYxdpywAw_P_109_158_402_269_DX678_DY678_CX161_CY108.png" />
+      <file href="mobile/5gIHrvtHWNL_P_335_862_437_257_DX666_DY666_CX175_CY103.png" />
+      <file href="mobile/5ctFP8lRHAW_P_650_158_415_273_DX666_DY666_CX166_CY109.png" />
+      <file href="mobile/6R15SoSwSTO_P_609_283_394_480_DX666_DY666_CX158_CY192.png" />
+      <file href="mobile/5vziOAD0MeF_P_52_284_357_468_DX666_DY666_CX143_CY188.png" />
+      <file href="mobile/69oRjLNOBlZ_P_935_163_319_352_DX680_DY680_CX128_CY141.png" />
+      <file href="mobile/5sLkzSEF6gc_P_632_776_363_355_DX712_DY712_CX155_CY152.png" />
+      <file href="mobile/64zCjlOOa28_P_323_519_373_486_DX666_DY666_CX150_CY195.png" />
+      <file href="mobile/6mZHvokSB7p_P_0_142_1300_972_DX666_DY666_CX523_CY391.png" />
+      <file href="mobile/5rATnx7jvcV_P_920_524_379_412_DX630_DY630_CX144_CY157.png" />
+      <file href="mobile/6LauIxqLdDK_P_59_457_137_127_DX662_DY662_CX47_CY44.png" />
+      <file href="story_content/6bZpsLooLUy_44100_96_0.mp3" />
+      <file href="story_content/5kHXOrW5ZE7_44100_96_0.mp3" />
+      <file href="story_content/6YwfoN91P27_44100_96_0.mp3" />
+      <file href="story_content/6j8FqygwZm3_44100_96_0.mp3" />
+      <file href="story_content/6PrK2sYI2qU_44100_96_0.mp3" />
+      <file href="story_content/6mEeUFQTMeR_44100_96_0.mp3" />
+      <file href="story_content/6XgREM1Ymq5_44100_96_0.mp3" />
+      <file href="story_content/6pSUiREssmZ_44100_96_0.mp3" />
+      <file href="story_content/5zMhjWHM80K_44100_96_0.mp3" />
+      <file href="story_content/658btjlMolw_44100_96_0.mp3" />
+      <file href="story_content/6B8H75fi9Q3_44100_96_0.mp3" />
+      <file href="story_content/6llGl28gHfF_44100_96_0.mp3" />
+      <file href="story_content/6R3HePYQFs6_44100_96_0.mp3" />
+      <file href="story_content/5mrXByrPvVv_44100_96_0.mp3" />
+      <file href="story_content/5YFzm0ENEV4_44100_96_0.mp3" />
+      <file href="story_content/6OS7hoXufTb_44100_96_0.mp3" />
+      <file href="story_content/5qyGRZgSMvT_44100_96_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5h1uJC1VEpL.js" />
+      <file href="html5/data/js/5qB88van5A6.js" />
+      <file href="html5/data/js/5wqpMqqZPPn.js" />
+      <file href="html5/data/js/5YcORKACKgU.js" />
+      <file href="html5/data/js/5ZGzfBbNOdZ.js" />
+      <file href="html5/data/js/5ZNil0tOesu.js" />
+      <file href="html5/data/js/62FqCkibebZ.js" />
+      <file href="html5/data/js/63X7RAIGt0t.js" />
+      <file href="html5/data/js/6BsgcgGwmbj.js" />
+      <file href="html5/data/js/6Gw9PRCoWiI.js" />
+      <file href="html5/data/js/6hi7TabcdpE.js" />
+      <file href="html5/data/js/6HuqFKOp7bn.js" />
+      <file href="html5/data/js/6KNJvJQFFtH.js" />
+      <file href="html5/data/js/6KYcSjcvT9N.js" />
+      <file href="html5/data/js/6lwhYHsMYpV.js" />
+      <file href="html5/data/js/6mMCpF5zDCM.js" />
+      <file href="html5/data/js/6mXLEFkUyfO.js" />
+      <file href="html5/data/js/6OVyIMVw1Mg.js" />
+      <file href="html5/data/js/6RyMWc2rU7G.js" />
+      <file href="html5/data/js/6VCz0KOaiQH.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
